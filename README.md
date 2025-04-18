@@ -22,7 +22,10 @@ As a **cloud engineer**, I worked with **AWS**, **Terraform**, and data pipeline
 ## 📬 **Let’s Connect!**  
 I’m passionate about making a difference, especially in **healthcare**, **education**, and **accessibility**. If you have a project that aligns with these values, I’d love to hear from you! 💌
 
-[![Instagram](https://img.shields.io/badge/Instagram-f4f1ed?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/toniapascarella) [![LinkedIn](https://img.shields.io/badge/LinkedIn-f3efe6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/antoniettapascarella)  [![TikTok](https://img.shields.io/badge/TikTok-f8f1e7?style=for-the-badge&logo=tiktok&logoColor=black)](https://tiktok.com/@toniapascarella)
+
+<a href="https://www.linkedin.com/in/gabriele-evangelista/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/74/linkedin.svg" alt="gabriele-evangelista" height="30" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-f4f1ed?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/toniapascarella)  [![TikTok](https://img.shields.io/badge/TikTok-f8f1e7?style=for-the-badge&logo=tiktok&logoColor=black)](https://tiktok.com/@toniapascarella)
 
 ---
 
